@@ -1,0 +1,7 @@
+{
+  "name": "A Laiz Prod - Label Musical",
+  "description": "A futuristic and optimized website for the music label A Laiz Prod, showcasing their artists, services, and educational offerings with a sleek, modern design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
